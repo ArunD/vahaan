@@ -1,0 +1,111 @@
+Need more discussion:
+
+
+-- display unavailable options of atleast 10 bikes and 2 available
+	
+Currently the scooty we are offering is just honda activa ,as it driven by both male and female and widely used.
+If the customer base increases ,we will start to offer motorcycles like splendor/city which will give more mileage and ease of transportation.
+
+
+
+-- petrol options and charges... options 
+    1) free petrol 1 lt, 2lt
+    2) Full tank - chargable
+
+We have not thought on the petrol front yet.It wouldn't be free though.
+
+
+-- Helmets:
+
+We will provide helmet.That would give extra leverage to sale.
+1 helmet would be free ,an extra helmet would cost 10 rupee/day.
+
+
+
+-- bike description :
+    1)Milage
+    2)Model
+    3)Minimum rent : 600/2Days
+
+I have provided the charges in the attached excel sheet ,which is just for Activa.The charges are based on discount which increase as the number of days increase.
+The maximum number of days for which a bike would be booked is 31 days.
+All the scooty which we will buy ,will be of same year(2012) and same model with color white.
+
+
+-- charges as per bike activa, pulsur - database change
+
+The discount will be stored in database and the tariff will be calculated on run time depending on the number of days.
+
+
+-- pagination on bike options + grid
+
+Initially lets keep it simple.
+
+we will provide a description .
+The easiest mode of transport for anyone is a two wheeler which can be driven by almost everyone.
+and then will write some good things about scootys and have a image of Honda Activa with its features in a detailed manner.
+
+We will not have bike option ,just one scooty honda activa.
+
+We can display 2 to 3 bikes ,available just honda activa.
+
+
+===============================================================================================
+
+
+Book bike screen:
+
+-- start date , end date
+
+-- on availibilty click... show summary of charges 
+    1) bike rent
+    2) petrol charges(customers own petrol.Intially we will provide 1 litre petrol)
+    3) helmet rent (no charge for 1 helmet but an extra helmet would cost 10 rupees/day)
+    4) initial deposit (2000)
+
+==============================================================================================
+
+-- confirmation screen
+
+We will provide a option for on cash delivery and online payment.
+
+For cash on delivery an extra charge of 100 rupees.
+
+Confirmation screen would follow with a mail to the customer.
+
+Information included on confirmation screen.
+
+Bike name
+Bike number
+Start date
+end date
+total tariff
+invoice number
+Pick up point.
+
+
+
+===============================================================================================
+
+-- Pick and drop ?
+
+For now the pick up and drop would be the parking lot of my society.
+
+
+
+===============================================================================================
+
+-- booking extension option
+
+
+Need to think on that.
+
+Rather than extension ,i was thinking to start the booking process again.
+
+
+
+
+
+
+
+
